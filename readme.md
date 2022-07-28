@@ -6,7 +6,7 @@
 ![This is an image](./project.jpg)
 
 ### As a result of this project, I learn the following:
-[LIVE-LINK](https://digitalmarketinghomepage.netlify.app/)
+[LIVE-LINK](https://projectcryptolanding.netlify.app/)
 
 - [x] learned about Font Awesome for dropdown arrow
 - [x] Learned about how to use linear-gradient over background image
